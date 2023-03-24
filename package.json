@@ -1,6 +1,6 @@
 {
   "name": "lru-native2",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "description": "LRU cache module written in C++",
   "keywords": [
     "LRU",
@@ -10,16 +10,10 @@
   ],
   "main": "index.js",
   "types": "index.d.ts",
-  "maintainers": [
-    {
-      "name": "Kibae Shin",
-      "email": "nonunnet@gmail.com",
-      "url": "https://github.com/kibae"
-    }
-  ],
   "author": {
     "name": "Kibae Shin",
-    "email": "nonunnet@gmail.com"
+    "email": "kibae.shin@gmail.com",
+    "url": "https://github.com/kibae"
   },
   "repository": {
     "type": "git",
