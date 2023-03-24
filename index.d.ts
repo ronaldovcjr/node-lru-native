@@ -2,8 +2,8 @@ declare module "lru-native2" {
   interface LRUCacheOptions {
     maxElements?: number
     maxAge?: number
-    size: number
-    maxLoadFactor: number
+    size?: number
+    maxLoadFactor?: number
   }
 
   interface LRUCacheStats {
