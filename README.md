@@ -106,6 +106,7 @@ Set the maximum age (in milliseconds) of an item
 
 # Changelog
 
+- 1.2.x -- Support OSX, node 14/16
 - 1.0.0 -- Update the timestamp when get a value(like common LRU cache). Added SetMaxAge(), SetMaxElements()
 - *forked*
 - 0.4.0 -- Added support for newer versions of Node via NAN
