@@ -1,6 +1,6 @@
 {
   "name": "lru-native2",
-  "version": "1.2.6",
+  "version": "1.2.6-hack",
   "description": "LRU cache module written in C++",
   "keywords": [
     "LRU",
